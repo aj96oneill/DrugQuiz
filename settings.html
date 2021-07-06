@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My App</title>
+    <link rel="stylesheet" href="app.css">
+    <link rel="stylesheet" href="settings.css">
+</head>
+<body>
+    <div class="container">
+        <div id="settings" class="flex-center flex-column">
+          <h1>Settings</h1>
+          <form>
+            <h3>Difficulty</h3>
+            <div class="flex-center">
+            <button
+              class="btn"
+              id="p1"
+              onclick="updateDificulty(event)"
+            >
+              P1
+            </button>
+            <button
+              class="btn"
+              id="p2"
+              onclick="updateDificulty(event)"
+            >
+              P2
+            </button>
+            <button
+              class="btn"
+              id="p3"
+              onclick="updateDificulty(event)"
+            >
+              P3
+            </button>
+            </div>
+            <h3>Number of Drugs</h3>
+            <div class="flex-center">
+                <button
+                  class="btn"
+                  id="first"
+                  onclick="updateDrugNumber(event)"
+                >
+                  1-100
+                </button>
+                <button
+                  class="btn"
+                  id="second"
+                  onclick="updateDrugNumber(event)"
+                >
+                  101-200
+                </button>
+                <button
+                  class="btn"
+                  id="third"
+                  onclick="updateDrugNumber(event)"
+                >
+                  1-200
+                </button>
+            </div>
+            <h3>In Order or Shuffled</h3>
+            <div class="flex-center">
+                <button
+                  class="btn"
+                  id="order"
+                  onclick="updateOrder(event)"
+                >
+                  In Order
+                </button>
+                <button
+                  class="btn"
+                  id="shuffle"
+                  onclick="updateOrder(event)"
+                >
+                  Shuffled
+                </button>
+            </div>
+            <h3>Which Drug Should be in the Question</h3>
+            <div class="flex-center">
+                <button
+                  class="btn"
+                  id="generic"
+                  onclick="updateQuestion(event)"
+                >
+                  Generic
+                </button>
+                <button
+                  class="btn"
+                  id="brand"
+                  onclick="updateQuestion(event)"
+                >
+                  Brand
+                </button>
+            </div>
+            <div class="reset flex-center">
+                <button 
+                class="btn"
+                id="reset" 
+                onclick="resetSettings(event)"
+                >
+                Reset to Default
+                </button>
+            </div>
+        <!-- <input
+          type="text"
+          name="username"
+          id="username"
+          placeholder="username"
+        /> -->
+        <!-- <button
+          type="submit"
+          class="btn"
+          id="saveScoreBtn"
+          onclick="saveHighScore(event)"
+          disabled
+        >
+          Save
+        </button> -->
+          </form>
+          <a class="btn" href="/game.html">Play Again</a>
+          <a class="btn" href="/">Go Home</a>
+        </div>
+      </div>
+      <script src="settings.js"></script>
+</body>
+</html>

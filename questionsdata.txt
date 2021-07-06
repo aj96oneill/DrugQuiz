@@ -1,0 +1,200 @@
+1	lisinopril	Prinivil|Zestril|Qbrelis	Hypertension, Acute myocardial infarction, Heart failure; Adjunct	angiotensin converting enzyme Inhibitor	Take 2.5 mg|5 mg|10 mg|20 mg|30 mg|40 mg by mouth once daily
+2	levothyroxine	Synthroid|Levoxyl|Levothroid|Unithroid|Tirosint	Hypothyroidism|Myxedema coma	Thyroid hormone supplement	"Take 25 mcg|50 mcg|75 mcg|88 mcg|100 mcg|112 mcg|125 mcg|137 mcg|150 mcg|175 mcg|200 mcg|300 mcg by mouth once daily"
+3	atorvastatin	Lipitor	"Hypercholesterolemia, Hypertriglyceridemia, Familial type 3 hyperlipoproteinemia, Familial hypercholesterolemia, Secondary Prophylaxis disorder of cardiovascular system, "	HMG-CoA Reductase Inhibitor	Take 5 mg|10 mg|20 mg|40 mg|80 mg by mouth once daily
+4	metformin	Glucophage|Glumetza|Fortamet|Glucophage XR|Riomet	Type 2 Diabetes mellitus, pre-diabetes mellitus	Biguanide	Take 500 mg| 850 mg| 1000 mg by mouth twice a day
+5	simvastatin	Zocor	"Hypercholesterolemia, Hypertriglyceridemia, Familial type 3 hyperlipoproteinemia, Familial hypercholesterolemia, Prophylaxis Cerebrovascular accident In patients with high coronary event risk"	HMG-CoA Reductase Inhibitor	Take 5 mg|10 mg|20 mg|40 mg|80 mg by mouth daily in the evening
+6	omeprazole	Prilosec|Prilosec OTC	"Gastroesophageal Reflux Disease, Erosive esophagitis, Duodenal ulcer disease, Gastric hypersecretion, Gastric ulcer"	Proton pump inhibitor	Take 10 mg| 20 mg| 40 mg by mouth once daily
+7	amlodipine	Norvasc	Hypertension, Angina, Coronary arteriosclerosis	Calcium channel blocker	Take 2.5 mg| 5 mg | 10 mg by mouth once daily
+8	metoprolol (tartrate)	Tartrate: Lopressor	Angina, Hypertension, Acute myocardial infarction	Selective Beta-1 blocker	Take 12.5 mg | 25 mg | 37.5 mg | 50 mg | 75 mg | 100mg by mouth twice a day
+9	metoprolol (succinate)	Succinate: Toprol XL	Angina, Hypertension, Acute myocardial infarction	Selective Beta-1 blocker	Take 25 mg | 50 mg | 100 mg | 200 mg by mouth once daily
+10	acetaminophen; hydrocodone	Vicodin|Lortab|Norco|Verdrocet|Vicodin ES|Vicodin HP|Xodol|Zamicet|Zolvit	Moderate to severe pain	Opioid analgesic	"Take 300 mg - 5 mg |300 mg - 7.5 mg |300 mg - 10 mg |325 mg - 2.5 mg|325 mg - 5 mg |325 mg - 7.5 mg |325 mg - 10 mg by mouth every four to six hours"
+11	albuterol HFA	Ventolin HFA| Proair HFA| Proventil HFA	Asthma	Short-Acting Beta-2 Selective Agonist	Inhale 2 puffs every four to six hours as needed
+12	hydrochlorothiazide	Microzide	Hypertension, Edema	Thiazide diuretic	Take 12.5 mg | 25 mg | 50 mg by mouth every morning
+13	losartan 	Cozaar|	"Hypertension, diabetic nephropathy, hypertension with left ventricular hypertrophy"	angiotensin II receptor blocker	"Take 25 mg | 50 mg | 100 mg by mouth once daily;  take 50 mg by mouth twice daily"
+14	gabapentin 	Neurontin|Gralise|FusePaq Fanatrex| Gabarone	Partial seizures or Postherpetic neuralgia	anti-convulsant	Take 100 mg | 300 mg | 400 mg | 600 mg | 800 mg by mouth three times a day
+15	sertraline	Zoloft	"Major depressive disorder, Obsessive compulsive disorder, Panic disorder, Posttraumatic stress disorder, Premenstrual dysphoric disorder, Social phobia"	selective serotonin reuptake inhibitor	Take 25 mg | 50 mg | 100 mg by mouth once daily
+16	furosemide	Lasix	Hypertension, Edema	Loop diuretic	Take 20 mg | 40 mg | 80 mg by mouth twice a day
+17	acetaminophen	Tylenol	Fever, Pain 	analgesic/antipyretic	Take 500 mg | 650 mg by mouth every 4-6 hours as needed 
+18	atenolol	Tenormin	Hypertension, Acute myocardial infarction, Angina pectoris	Selective Beta-1 blocker	Take 25 mg | 50 mg | 100 mg by mouth daily
+19	pravastatin	Pravachol	"Hyperlipidemia, Coronary arteriosclerosis, Familial hypercholesterolemia "	HMG-CoA Reductase Inhibitor	Take 10 mg | 20 mg |40 mg | 80 mg by mouth once daily
+20	amoxicillin	Amoxil| Moxatag	Helicobacter pyloriinfection, urinary tract infection, lower respiratory tract infection or Skin infection	Penicillin antibiotic	Take 500 mg |875 mg by mouth three times a day x 7-10 days
+21	fluoxetine	Prozac|Prozac Weekly|Sarafem|Rapiflux|Selfemra	"Major depressive disorder, Bulimia nervosa, Depressed bipolar I disorder, Obsessive-compulsive disorder, Panic disorder, Premenstrual dysphoric disorder"	selective serotonin reuptake inhibitor	"Take 10 mg | 20 mg | 40 mg | 60 mg by mouth with breakfast Take 90mg by mouth once weekly"
+22	citalopram	Celexa	Major depressive disorder	selective serotonin reuptake inhibitor	Take 10 mg | 20 mg | 40 mg by mouth daily
+23	trazodone	Desyrel|Oleptro	Major depressive disorder	Serotonin reuptake inhibitor	Take 50 mg | 100 mg | 150 mg | 300 mg by mouth at bedtime
+24	alprazolam	Xanax|Niravam|Xanax XR	Generalized anxiety disorder, panic disorder	Benzodiazepine	Take 0.25 mg, 0.5 mg, 1 mg, 2 mg by mouth three times a day
+25	fluticasone (intranasal)	Flonase| Veramyst	Seasonal allergies	Nasal corticosteroid	Administer 1-2 sprays (50 mcg/spray) per nostril once daily (100-200 mcg/day)
+26	bupropion	"Zyban|Wellbutrin|Aplenzin|Budeprion SR|Buproban|Forfivo XL|Wellbutrin SR|Wellbutrin XL"	"major depressive disorder, seasonal affective disorder, smoking cessation"	"dopamine-norepinephrine reuptake inhibitor, smoking cessation aid"	"Take 100 mg, 150 mg, 200 mg by mouth twice daily; Take 150 mg by mouth daily; Take 100 mg, 150 mg by mouth three times a day"
+27	carvedilol	Coreg	Hypertension, Heart failure, Myocardial infarction	nonselective beta and alpha-1 blocker 	Take 3.125 mg | 6.25 mg | 12.5 mg | 25 mg by mouth twice a day
+28	potassium chloride	"K-Dur|Kali Mur|Klor-Con 10|Klor-Con 8|Klor-Con M10|Klor-Con M15|Klor-Con M20|Klor-Con|Klor-Con Sprinkle|K-Sol|K-Tab|"	Hypokalemia	Potassium supplement	Take 8 MEQ| 10 MEQ| 20 MEQ by mouth after meals
+29	tramadol	Ultram|ConZip|FusePaq Synapryn|Ryzolt|Ultram ER	Pain (moderate to severe)	Opioid analgesic	Take 50 mg every 4-6 hours by mouth (not to exceed 400 mg/day)
+30	pantoprazole 	Protonix	Gastroesophageal reflux disease, Erosive esophagitis, Gastric hypersecretion, Zollinger-Ellison 	Proton pump inhibitor	Take 20 mg | 40 mg by mouth daily
+31	montelukast	Singulair	asthma, allergic rhinitis	Leukotriene receptor antagonist	Take 4mg| 5mg| 10 mg by mouth daily
+32	escitalopram	Lexapro	Generalized anxiety disorder, major depressive disorder	selective serotonin reuptake inhibitor	Take 5 mg, 10 mg, 20 mg  by mouth daily
+33	prednisone	Deltasone|Prednicot|Sterapred|Sterapred DS|Rayos	"Asthma, Collagen disease, Ulcerative colitis, Inflammatory disorder of musculoskeletal system, "	Glucocorticoid	Take 1 mg, 2.5 mg, 5 mg, 10 mg, 20 mg, 50 mg by mouth once daily
+34	rosuvastatin	Crestor	"Hypercholesterolemia, Hyperlipidemia, Hypertriglyceridemia, Generalized atherosclerosis, Familial hypercholesterolemia, Prophylaxis disorder of cardiovascular system"	HMG-CoA Reductase Inhibitor	Take 5 mg | 10 mg | 20 mg | 40 mg by mouth once daily
+35	ibuprofen	Advil|Motrin|Genpril|Addaprin|Bufen|Caldolor|Haltran	"Mild to moderate pain, Rheumatoid arthritis, Primary dysmenorrhea, Osteoarthritis, Migraine, Headache, Fever"	Non-steroidal Anti Inflammatory drug	Take 200 mg | 400 mg | 600 mg | 800 mg by mouth every four to six hours
+36	meloxicam	Mobic|Vivlodex	"Osteoarthritis, Rheumatoid arthritis, Juvenile rheumatoid arthritis"	Non-steroidal Anti Inflammatory drug	Take 7.5 mg | 15 mg by mouth daily
+37	insulin glargine	Lantus|Lantus SoloStar|Toujeo	Type 1 Diabetes mellitus, Type 2 diabetes mellitus	Long-acting insulin analog	Inject 10+ units subcutaneously 1-2 times daily as directed
+38	hydrochlorothiazide; lisinopril 	Prinzide |Zestoretic	Hypertension	"Angiotensin-converting enzyme Inhibitor + thiazide diuretic"	Take 10-12.5 mg | 20-12.5 mg by mouth once daily
+39	clonazepam	Klonopin	Seizures, Panic Disorder	Benzodiazepine	Take 0.5 mg, 1 mg, 2 mg by mouth twice a day
+40	aspirin	Ecotrin	Fever, headache, myocardial infarction, angina, pain	Non-steroidal Anti Inflammatory drug/antiplatelet 	"Fever/pain: take 325 mg |650 mg by mouth every four to six hours as needed Antiplatelet: take 81 mg by mouth daily"
+41	clopidogrel	Plavix	Thrombosis prophylaxis	Anti-platelet agent	Take 75 mg | 300 mg by mouth daily
+42	glipizide	Glucotrol	Type 2 Diabetes mellitus	Sulfonylurea	"Take 2.5 mg, 5 mg, 10 mg by mouth daily; Take 5 mg, 10 mg by mouth twice daily"
+43	warfarin	Coumadin| Jantoven	"Venous thromboembolism, Pulmonary embolism, Atrial fibrillation Thromboembolic disorder"	anti-coagulant	"Take 1 mg, 2 mg, 2.5 mg, 3 mg, 4 mg, 5 mg, 6 mg, 7.5 mg, 10 mg by mouth daily"
+44	cyclobenzaprine	Flexeril | Amrix| Fexmid	Skeletal muscle spasms	Central muscle relaxant	Take 5 mg, 7.5 mg, 10 mg, 15 mg, 30 mg  by mouth daily
+45	insulin human	Humulin N| Humulin N Kwikpen| Novolin N	Type 1 diabetes mellitus, Type 2 diabetes mellitus	intermediate acting insulin	Inject personalized dose (units) subcutaneously once to twice daily
+46	tamsulosin	Flomax	Benign prostatic hyperplasia	Alpha-1 Adrenergic Blocker	Take 0.4 mg by mouth once daily
+47	zolpidem	Ambien|Eldluar|Intermezzo|Zolpimist	Insomnia	Sedative hypnotic	Take 5 mg, 10 mg by mouth at bedtime
+48	duloxetine	Cymbalta	Major depression disorder, generalized anxiety disorder, diabetic peripheral neuropthay, fibromyalgia 	Serotonin norepinephrine reuptake inhibitor 	Take 30-60 mg by mouth once daily
+49	ranitidine	Zantac|Taladine	Gastroespohageal reflux disease, Duodenal ulcer disease, Erosive esophagitis,  Zollinger-Ellison syndrome	Histamine-2 receptor antagonist	Take 75 mg, 150 mg, 300 mg by mouth twice daily
+50	venlafaxine	Effexor XR	"Generalized anxiety disorder, Major depressive disorder, panic disorder, social phobia"	Serotonin norepinephrine reuptake inhibitor 	Take 37.5 mg | 75 mg | 150 mg by mouth daily
+51	fluticasone; salmeterol 	Advair Diskus, Advair HFA	Asthma, Chornic obstructive pulmonary disease 	Corticosteroid and Long-Acting Beta-2 Agonist	Inhale 1 inhalation, 2 inhalations twice daily
+52	oxycodone	Oxycontin, OxyIR, Xtampza, Roxicodone, Oxaydo	Moderate to severe pain	Opioid	Take 5 mg, 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, 80 mg by mouth every 12 hours
+53	azithromycin	Zithromax, AzaSite, Z-Pak, Zmax	"Acute otitis media, Acute bacterial sinusitis, Community Acquired Pneumonia "	Macrolide antibiotic	Take 250 MG, 500 MG, 600 MG by mouth daily for 3 days
+54	amphetamine	Adderall, Adzenys ER, Adzenys XR-ODT, Dyanavel XR, Evekeo	Attention-deficit/hyperactivity disorder, Exogenous obesity, Narcolepsy	Central Nervous System Stimulant	Take 12.5 MG by mouth once daily
+55	lorazepam	Ativan	Generalized anxiety disorder, Premedication for anesthetic procedure, Status epilepticus, Insomnia, due to anxiety or situational stress	Benzodiazepine	Take 0.5 MG, 1 MG, 2 MG by mouth twice daily or three times daily
+56	allopurinol	Zyloprim	Gout, Calcium renal calculus, Increased uric acid level	Xanthine Oxidase inhibitor	Take 100 MG, 300 MG by mouth three times a day
+57	paroxetine	Paxil	"Generalized anxiety disorder, Major depressive disorder, Obsessive compulsive disorder, Post-traumatic stress disorder, Panic disorder, Social phobia"	selective serotonin reuptake inhibitor	Take 10 MG, 20 MG, 30 MG, 40 MG by mouth once daily
+58	methylphenidate	Ritalin, Aptensio XR, Concerta, Metadate	Attention-deficit/hyperactivity disorder, Narcolepsy	Central Nervous System Stimulant	Take 10 MG, 18 MG, 20 MG, 27 MG, 30 MG, 36 MG, 40 MG, 54 MG, 60 MG by mouth every morning
+59	Losartan/Hydrochlorothiazide	Hyzaar	Hypertension, Hypertension with left ventricular hypertrophy	Angiotensin II Receptor Blocker, and Thiazide Diuretic	Take Losartan 50 mg/hydrochlorothiazide 12.5 mg or losartan 100 mg/hydrochlorothiazide 12.5 mg or losartan 100 mg/hydrochlorothiazide 25 mg once daily
+60	fenofibrate	Tricor	Hypercholesterolemia, hypertriglyceridemia mixed dyslipidemia	Antilipemic Agent, Fibric Acid	Take 48 MG, 145 MG by mouth once daily
+61	propranolol	Hemangeol, Inderal	Cardiac arrhythmias, Essential tremor, Hypertension, Migraine headache prophylaxis, Obstructive hypertrophic cardiomyopathy, Pheochromocytoma, Post-Myocardial infarction mortality reduction, Proliferating infantile hemangioma, Stable angina	Beta Blocker	Take 10MG, 20MG, 30MG, 40MG, 60MG, 80MG by mouth once, twice, three times or four times daily
+62	glimepiride	Amaryl	Diabetes mellitus type 2	Sulfonylurea	Take 1MG to 2MG once daily with breakfast or the first main meal
+63	ergocalciferol	Calcidol, Calciferol, Drisdol	rickets, vitamin deficiency, hypoparathyroidism, familial hypophosphatemia	vitamin D analog	Take 600, 800, 1000, 2000 units by mouth daily, take 50,000 units by mouth once weekly
+64	esomeprazole	Nexium	Gastroesophageal reflux disease, Helicobacter pylori eradication, Risk reduction of nonsteroidal anti-inflammatory drug-associated gastric ulcer, Pathological hypersecretory conditions, Heartburn (OTC only)	Proton Pump Inhibitor 	Take 20MG, 40MG by mouth once or twice daily for 4 to 8 weeks
+65	spironolactone	Aldactone, CaroSpir	Edema, Heart failure, hypertension, primary aldosteronism	Potassium-sparing diuretic	Take 25MG, 50MG, 100MG by mouth once or twice daily
+66	loratadine	Claritin	Allergic rhinitis	Histamine-1 Antagonist	Take 10MG by mouth once daily or 5MG twice daily
+67	naproxen	Naprosyn	Acute gout, Ankylosing spondylitis, Bursitis, Polyarticular juvenile idiopathic arthritis, Osteoarthritis, Rheumatoid arthritis, Tendonitis, Pain, Primary dysmenorrhea	Non-steroidal Anti inflammatory drug	Take 250MG, 375MG, 500MG by mouth once or twice daily or every 6 to 8 hours or every 12 hours
+68	lamotrigine	Lamictal	Bipolar I disorder, Epilepsy	Anticonvulsant	Take 100MG to 500MG by mouth once daily
+69	hydrochlorothiazide; triamterene	Dyazide, Maxzide	Edema, hypertension	Thiazide diuretic and potassium-sparing diuretic	Take Hydrochlorothiazide 25 mg/triamterene 37.5 mg, Hydrochlorothiazide 25 mg/triamterene 50 mg, Hydrochlorothiazide 50 mg/triamterene 75 mg by mouth once daily
+70	cetirizine	Zyrtec, All day allergy	upper respiratory allergies, urticaria	antihistamine, second generation antihistamine, histamine H1 antagonist	Take 2.5 MG, 5 MG, 10 MG by mouth daily
+71	sulfamethoxazole; trimethoprim	Bactrim	urinary tract infection, acute otitis media, acute exacerbations of chronic obstructive pulmonary disease, Pneumocystis Carinii Pneumonia, traveler's diarrhea, shigellosis	Sulfamide antibiotic and folic acid inhibitor	Take 1 or 2 single-strength tablets or 1 or 2 double-strength tablets by mouth twice daily for 3 to 14 days
+72	lovastatin	Mevacor, Altoprev	Hypercholesterolemia, Coronary arteriosclerosis	HMG-CoA Reductase Inhibitor	Take 10 MG, 20 MG, 40 MG, 60 MG by mouth daily in the evening
+73	diltiazem	Cardizem, Cartia XT, Dilt-XR, Matzim LA, Taztia XT, Tiazac	Atrial arrhythmia, Hypertension, Stable angina, Paroxysmal supraventricular tachycardia	Calcium channel blocker	Take 30 MG, 60 MG, 90 MG, 120 MG, 180 MG, 240 MG, 300 MG, 360 MG, 420 MG by mouth once daily
+74	clonidine	Catapres, Duraclon, Kapvay	Hypertension	Alpha-2 agonist	Take 0.1 MG, 0.2 MG, 0.3 MG by mouth once or twice daily
+75	topiramate	Qudexy, Topamax, Topiragen	Epilepsy, migraine	Anticonvulsant	Take 25 MG, 50 MG, 100 MG, 200 MG, 400 MG by mouth daily; Take 25 MG, 50 MG, 100 MG, 200 MG by mouth twice daily
+76	amoxicillin; clavulanate 	Augmentin	Helicobacter pyloriinfection, urinary tract infection, lower respiratory tract infection or Skin infection	Penicillin antibiotic	Take 500MG, 875MG by mouth three times a day
+77	pregabalin	Lyrica	Fibromyalgia, Diabetic peripheral neuropathy, Neuropathic pain, Partial seizure	GABA receptor agonist	Take 25 MG, 50 MG, 75 MG, 100 MG, 150 MG, 200 MG, 225 MG, 300 MG by mouth two times a day
+78	folic acid	FA-8, Folacin-800, Methylfolate	Megaloblastic anemia	Water-soluble vitamin	Take 0.4 MG, 0.8 MG, 1 MG, 800 MCG daily
+79	alendronate 	Fosamax, Binosto	Osteoporosis, Paget's disease, Paget's disease	Bisphosphonate	Take 5 MG, 10 MG, 35 MG, 40 MG, 70 MG by mouth weekly with plenty of water
+80	hydrocodone	Hysingla ER, Zohydro ER	Moderate to severe pain	Opioid	Take 10MG, 15MG, 20MG, 30MG, 40MG, 50MG by mouth once daily or every 12 hours
+81	amitriptyline	Elavil	Depression	Tricyclic Antidepressant 	Take 10 MG, 25 MG, 50 MG, 75 MG, 100 MG, 150 MG by mouth at bedtime
+82	diclofenac	Cambia, Cataflam, Voltaren, Zipsor, Zorvolex	Pain management, Osteoarthritis, Ankylosing spondylitis, Dysmenorrhea, Migraine	Non-steroidal Anti inflammatory drug	Take 25MG, 50MG, 75MG, 100MG by mouth twice, three times or four times daily
+83	insulin aspart	Novolog	Types 1 or 2 Diabetes Mellitus	Rapid-acting insulin	Inject individualized dose subcutaneously 5 to 10 minutes before meals
+84	tiotropium	Spiriva, Spiriva Respimat	Asthma, chronic obstructive pulmonary disease	Anti-muscarinic	Inhale 1 crushed capsule in two breaths daily
+85	quetiapine	Seroquel	Schizophrenia, Bipolar disorder, Major depressive disorder	Atypical anti-psychotic	Take 25 MG, 50 MG, 100 MG, 200 MG, 300 MG, 400 MG by mouth two times a day
+86	enalapril	Vasotec, Epaned	Heart failure, Hypertension, Left ventricular cardiac dysfunction	angiotensin converting enzyme Inhibitor	Take 2.5 MG, 5 MG, 10 MG, 20 MG by mouth twice daily
+87	bacitracin; neomycin; polymyxin B	Neosporin	Topical infection prevention	Polypeptide antibiotics and aminoglycoside antibiotic	Apply 1 to 3 times/day to infected area
+88	sitagliptin	Januvia	Type 2 Diabetes mellitus	DPP4 Inhibitor	Take 25 MG, 50 MG, 100 MG by mouth daily
+89	diazepam	Valium	Anxiety, Alcohol withdrawal, Seizures, Status epilepticus, Skeletal muscle spasm,	Benzodiazepine	Take 2 MG, 5 MG, 10 MG by mouth two to four times a day
+90	latanoprost	Xalatan	Open angle glaucoma, Ocular hypertension	Prostaglandin	Instill 1 drop in each eye in the evening
+91	ciprofloxacin	Cipro	Febrile neutropenia, Gonorrhea, Lower respiratory tract infection, Pyelonephritis, urinary tract infection	Fluoroquinolone	Take 250 MG, 500 MG, 750 MG by mouth every twelve hours for 7 to 14 days
+92	budesonide; formoterol 	Symbicort	Asthma, chronic obstructive pulmonary disease	Corticosteroid and Long-Acting Beta-2 Agonist	Inhale 2 inhalations twice daily
+93	hydroxyzine	Vistaril	Anxiety, Perioperative adjunct, Pruritus	Histamine-1 Antagonist	Take 25MG, 50MG, 100MG by mouth 3 to 4 times daily
+94	docusate	Colace, Diocto, Diosuccin, Doc-Q-Lace	Constipation	Stool Softener	Take 100 to 300 mg by mouth once daily or in divided doses, at least 2 hours before or after other medications
+95	valsartan	Diovan	Hypertension, Heart failure, Myocardial infarction	Angiotensin II receptor blocker	Take 40 MG, 80 MG, 160 MG, 320 MG by mouth daily
+96	finasteride	Propecia, Proscar	Benign prostatic hyperplasia, Male pattern alopecia	5-Alpha Reductase Inhibitor	Take 1MG or 5MG by mouth once daily
+97	ondansetron	Zofran, Zuplenz	Chemotherapy-induced nausea and vomiting, Postoperative nausea and vomiting, Radiation-induced nausea and vomiting	Selective 5-HT3 Receptor Antagonist	Dissolve 8MG orally on tongue 30 minutes prior to chemotherapy, operation, radiation
+98	ferrous sulfate	Ferosul	Iron deficiency anemia	Iron Salt	Take 325MG once daily after a meal
+99	cephalexin	Keflex	Uncomplicated cystitis	Cephalosporin	Take 500mg by mouth every 12 hours for 5 to 7 days
+100	ezetimibe	Zetia	Hypercholesterolemia, Familial hypercholesterolemia, Sitosterolemia	Antilipemic agent	Take 10mg by mouth once daily
+101	buspirone	Buspar	Generalized Anxiety Disorder	Antianxiety	Take 7.5mg, 10mg, 12.5mg, 15mg, 17.5mg, 20mg, 22.5mg, 25mg, 27.5mg, 30mg by mouth twice daily
+102	donepezil	Aricept	Alzheimer's disease	Acetylcholinesterase inhibitor	Take 5mg, 10mg by mouth once daily
+103	lisdexamfetamine	Vyvanse	Attention-deficit/hyperactivity disorder	Central Nervous System Stimulant	Take 30, 40, 50, 60 or 70mg by mouth once every morning
+104	insulin detemir	Levemir	Type 1 or 2 Diabetes mellitus	Long acting Insulin	Inject 10 units subcutaneously once or twice daily ( titrate as needed)
+105	tizanidine	Zanaflex	Muscle Spasticity	Alpha 2 Adrenergic Agonist	Take 2 or 4 mg every 6 to 8 hours as needed
+106	celecoxib	Celebrex	Acute pain,osteoarthritis, Rheumatoid arthritis, Gout, Primary dysmenorrhea	non steroidal anti inflammatory, Selective Cox-2 inhibitor	Take 100mg or 200mg by mouth twice daily as needed
+107	amlodipine; benazepril	Lotrel	Hypertension	angiotensin-converting enzyme inhibitor/ Calcium Channel Blocker	Take 2.5mg/10mg, 5mg/20mg, or 10mg/40mg by mouth once daily 
+108	doxycycline	Oracea, Monodox, Adoxa	Acne vulgaris, Lyme disease, Anthrax	Amebicide	Take 100mg or 200mg by mouth once or twice daily
+109	cyanocobalamin	Cobal, Vita #12	Cobalamin deficiency, Hyperhomocysteinemia, Pernicious anemia	Water soluble, vitamin	Inject 100 mcg Intramuscularly or deep Subcutaneously once monthly
+110	oxybutynin	Ditropan	Bladder muscle dysfunction, Hyperhidrosis, Neurogenic bladder	Antimuscarinic	Take 5 or 10mg by mouth once daily
+111	isosorbide mononitrate	Imdur	Stable angina, prophylaxis	Antianginal Agent	Take 120 to 140mg orally once daily
+112	morphine 	MS Contin	Moderate to severe pain	Opioid Analgesic	Take 15mg every 12 hours
+113	insulin lispro	Humalog	Type 1 or 2 Diabetes mellitus	Rapid- Acting Insulin	Inject individualize dose subcutaneously before each meal
+114	hydralazine	Apresoline	Essential Hypertension	Antihypertensive, Peripheral Vasodilator	Take 100 to 125mg by mouth twice daily
+115	levetiracetam	Keppra	Myoclonic seizure, Partial seizure or Tonic-clonic seizure	Anticonvulsant	Take 500mg, 1000mg, or 1500mg by mouth or IV twice daily
+116	benazepril	Lotensin	Hypertension	angiotensin-converting enzyme inhibitor	Take 10, 20, 30, or 40 mg by mouth once daily
+117	divalproex sodium 	Depakote	Absence seizure, complex partial seizure, Manic bipolar I disorder, Migraine Prophylaxis	Anticonvulsant	Take 250mg by mouth once daily or twice daily
+118	cholecalciferol; .alpha.-tocopherol	Vitamin D3	Vitamin D deficiency prevention or Vitamin D Deficiency Treatment	Fat soluble vitamin	Take 50,000 units by mouth once weekly
+119	ramipril	Altace	Congestive heart failure or hypertension	angiotensin-converting enzyme inhibitor	Take 2.5mg, 5mg, 10mg, or 20mg once daily
+120	nifedipine	Procardia	Hypertension, stable angina	Calcium Channel Blocker	Take 30 or 60 mg by mouth once daily
+121	hydrochlorothiazide; valsartan	Diovan HCT	Hypertension	Angiotensin II receptor blocker/ Thiazide Combination	Take 160mg/ 12.5mg or 320mg/ 25mg by mouth once daily
+122	pioglitazone	Actos	Type 2 Diabetes Mellitus	Thiazolidinedione	Take 15, 30 or 45mg by mouth once daily
+123	famotidine	Pepcid	Duodenal Ulcer, Gastric Ulcer, Gastroesophogeal Reflux Disease, Indigestion	Histamine H2 Antagonists	Take 20mg or 40mg by mouth once or twice daily
+124	methylprednisolone (oral)	Medrol	Disorder of the skin, disorder of the eye or Allergic condition	Systemic Corticosteroid	Take 4 to 48mg by mouth once daily (Tapering)
+125	clindamycin	Cleocin	Impetigo, Sepsis	Lincosamide Antibiotic	Take 300mg or 600mg by mouth twice daily 
+126	risperidone	Risperdal	Austistic disorder, Bipolar I disorder, Schizophrenia	Second generation Atypical Antipsychotic	Take 2 to 8mg by mouth once daily
+127	rivaroxaban	Xarelto	Pulmonary Embolism or Deep Vein Thrombosis	Direct Oral Anticoagulant, Factor Xa inhibitor	Take 10 or 20 mg by mouth once daily
+128	hydroxychloroquine	Plaquenil	Malaria, Lupus erythematosus, Rheumatoid Arthritis	Aminoquinoline	Take 200mg, 400mg, 600mg or 800mg by mouth once daily
+129	aripiprazole	Abilify	Austistic disorder, Bipolar I disorder, Schizophrenia	Second generation Atypical Antipsychotic	Take 10mg, 15mg, 30mg by mouth once daily
+130	mometasone (intranasal)	Nasonex	Allergic rhinitis, nasal polyps, or nasal congestion	Corticosteroid	Instill 2 sprays into each nostril once daily
+131	sumatriptan	Imitrex	Migraine	 Serotonin receptor agonist	Take 25mg, 50mg, or 100mg with fluids by mouth repeat in 2 hours as needed
+132	dextroamphetamine; dextroamphetamine saccharate; amphatime; amphetamine aspartate	Dexedrine	Narcolepsy, Attention deficity hyperactivity disorder	Central Nervous System Stimulant	Take 5mg to 60mg by mouth upon awakening and then every 4 to 6 hours
+133	lansoprazole	Prevacid	Gastroesophageal reflux disease, Gastric ulcer, Duodenal Ulcer	Proton Pump Inhibitor	Take 15mg by mouth once daily up to 8 weeks
+134	baclofen	Lioresal	Spasticity	Skeletal Muscle Relaxant	Take 5mg by mouth three times a day
+135	mirtazapine 	Remeron	Major Depressive Disorder	Antidepressant, Alpha 2 Antagonist	Take 15mg by mouth once at night
+136	promethazine	Phenergan	Motion sickness, allergic rhinitis	Antiemetic, Histamine H1 Antagonist	Take 25mg by mouth twice daily
+137	nitroglycerin	Nitrostat	Angina pectoris, Congestive heart failure	Antianginal Agent	Take 1 tablet Sublingually at first sign of attack, then repeat every 5 minutes for a total of 3 tablet
+138	digoxin	Digox or Digitek	Atrial fibrillation or heart failure	Cardiac Glycoside	Take 0.125 to 0.25mg by mouth once daily
+139	albuterol; ipratropium	Combivent Respimat	chronic obstructive pulmonary disease	Beta-2 agonist, anticholinergic	Inhale 1 puff by mouth 4 times daily
+140	prednisolone	Cotolone, Prelone, Millipred	Allergic condition, Disorder of the endocrine system, GI tract, eye, skin, hematopoietic structure, respiratory system, Tuberculosis of meninges, Trichinosis, Nephrotic syndrome, Neoplastic disease, Inflammatory disorder of musculoskeletal system, Exacerbation of multiple sclerosis, rheumatoid arthritis, asthma	Corticosteriod	Take 5MG to 60MG by mouth once daily
+141	hydrocortisone 	A-Hydrocort, Cortef, Solu-CORTEF	Allergic condition, Disorder of the endocrine system, GI tract, eye, skin, hematopoietic structure, respiratory system, Tuberculosis of meninges, Trichinosis, Nephrotic syndrome, Neoplastic disease, Inflammatory disorder of musculoskeletal system, Exacerbation of multiple sclerosis	Corticosteriod	Take 20MG to 240MG by mouth once daily
+142	verapamil	Calan, Verelan	Atrial fibrillation and flutter, Hypertension, Paroxysmal supraventricular tachycardia, Stable angina, Unstable angina, Variant angina	Non-dihydropyridine Calcium Channel Blocker	Take 80MG to 120MG by mouth three to four times daily
+143	ropinirole	Requip	Parkinson's disease, Restless leg syndrome	Dopamine agonist	Take 0.25 MG, 0.5 MG, 0.75 MG, 1 MG by mouth daily at bedtime, three times daily
+144	carisoprodol	Soma	Disorder of musculoskeletal system	Skeletal Muscle Relaxant	Take 250 MG, 350 MG by mouth 3 times a day and at bedtime
+145	glyburide	Diabeta	Type 2 Diabetes Mellitus	Sulfonylurea	Take 1.25 MG, 2.5 MG, 5 MG by mouth once daily
+146	nebivolol	Bystolic	Hypertension	Beta blocker	Take 2.5MG, 5MG, 10MG, 20MG by mouth once daily
+147	triamcinolone (topical)	Kenalog	Disorder of skin	corticosteriod	Apply topically to affected area 2-4 times daily
+148	gemfibrozil	Lopid	hyperlipidemia	fibric acid	Take 600mg by mouth twice daily
+149	omega-3-acid ethyl esters	Lovaza	Hypertriglyceridemia	Antilipemic Agent, Omega-3 Fatty Acids	Take 4 capsules (4 g) by mouth once daily OR 2 capsules (2 g) by mouth twice daily
+150	budesonide (inhaled)	Pulmicort	asthma	inhaled corticosteriod	Inhale 180mcg by mouth twice daily
+151	brimonidine	Alphagan P	open-angle glaucoma	Alpha-2 Adrenergic Agonist	1 drop of 0.1%, 0.15%, or 0.2% solution instilled into each affected eye 3 times daily, approximately 8 hours apart
+152	doxazosin	Cardura	Benign prostate hyperplasia	Alpha-2 Adrenergic Agonist	Take 2 mg by mouth once daily
+153	metformin; sitagliptin	Janumet	type 2 Diabetes mellitus	Biguanides/ DPP4 inhibitor	Take 50/500, 50/1000 mg by mouth twice daily with meals
+154	phenytoin	Dilantin	Generalized Tonic-Clonic and Complex Partial Seizures	anticonvulsant	Take 100mg by mouth three times daily
+155	solifenacin	Vesicare	bladder muscle dysfunction	anticholinergic agent	Take 5, 10mg by mouth once daily
+156	calcium carbonate	Tums	heartburn	antacid	Take 2 - 4 chewable tablets (750mg) by mouth as needed
+157	levofloxacin	Levaquin	Bacterial conjunctivitis, Bacterial sinusitis, Community acquired pneumonia	fluoroquinolone antibiotic	Take 500 mg IV/by mouth every 24 hours for 7 to 14 days
+158	canagliflozin	Invokana	type 2 Diabetes mellitus	Sodium-glucose cotransporter-2 inhibitor	Take 100,300mg by mouth once daily
+159	irbesartan	Avapro	hypertension	Angiotensin II Receptor Blocker	Take 150,300mg by mouth once daily
+160	polyethylene glycol 3350	Miralax	Constipation, Colonoscopy preparation	laxative	Take 17 g dissolved in 4 to 8 ounces of a beverage by by mouth once daily
+161	acyclovir	Zovirax	herpes zoster	viral deoxyribonucleic acid polymerase inhibitor	Take 400mg by mouth three times daily for 5 days
+162	methocarbamol	Robaxin	muscleskeletal pain	central acting skeletal muscle relaxant	Take 750mg by mouth every 4 hours
+163	terazosin	Hytrin	Benign prostate hyperplasia	alpha 1 blocker	Take 1mg by mouth once daily
+164	meclizine	antivert	motion sickness	histamine-1 antagonist	Take 25 mg by mouth 1 hour prior to departure
+165	mesalamine	Canasa, Apriso, Lialda	ulcerative collitis	5-Aminosalicylic Acid Derivative	"(Apriso ER capsule) 1.5 g by mouth once daily in the morning(Lialda DR tablet) 2.4 g by mouth once daily with a meal "
+166	testosterone (topical)	AndroGel	hypogonadism	androgen	Apply topically to affected area once daily
+167	lithium	Lithobid	bipolar disorder	Antimanic Agent	Take 300 mg by mouth 3 to 4 times daily
+168	temazepam	Restoril	Insomnia	benzodiazepine	Take 7.5-30 mg by mouth at bedtime
+169	memantine	Namenda	Alzheimer's disease	N-Methyl-D-Aspartate Receptor Antagonist	Take 20mg by mouth once daily
+170	oxcarbazepine	Trileptal	partial seizure	anticonvulsant	Take 300mg by mouth twice daily
+171	metronidazole	Flagyl	bacterial meningitis	azole antibiotic	Take 1g by mouth twice daily for 7 days
+172	valacyclovir	Valtrex	herpes zoster	viral deoxyribonucleic acid polymerase inhibitor	Take 1g by mouth three times daily for 7 days
+173	magnesium lactate	MagTab	Hypomagnesemia, indigestion	Electrolyte Supplement	Take 400 mg by mouth once daily
+174	nitrofurantoin	Macrobid	urinary tract infection	nitrofuran antibiotic	Take 100mg by mouth four times daily for 7 days
+175	benzonatate	Tessalon Perles	cough	antitussive	Take 200mg by mouth three times daily as needed
+176	liraglutide	Victoza	type 2 Diabetes mellitus	glucagon-like peptide-1 receptor agonist	Inject 0.6, 1.2, 1.8mg subcutaneously once daily
+177	guanfacine	Intuniv	Attention deficit hyperactivity disorder, Hypertension	Alpha-2 Adrenergic Agonist	Take 1,2,3,4 mg by mouth daily (at bedtime for HTN, morning for ADHD)
+178	sodium chloride saline	Ocean	Nasal irritation, Irrigation	Irrigant	Instill in each nostril as needed
+179	apixaban	Eliquis	Atrial fibrillation, Deep Venous thrombosis, Pulmonary embolism	Factor Xa Inhibitor	Take 2.5,5 mg by mouth twice daily
+180	olmesartan	Benicar	Hypertension	Angiotensin II Receptor Blocker	Take 20,40 mg by mouth daily
+181	pramipexole 	Mirapex	Parkinson's disease, restless leg syndrome	Dopamine Agonist	"IR: Take 0.25- 1.5mg by mouth three times daily ER: 0.375- 4.5mg by mouth once daily"
+182	thyroid	Armour Thyroid, Nature-Thyroid	Hypothyroidism	thyroid supplement	Take 60-120mg by mouth daily
+183	adalimumab	Humira	Crohn's disease, Plaque psoriasis, Psoriatic arthritis, Ulcerative colitis	Tumor Necrosis Factor Blocking Agent	Inject 40-160mg subcutaneuos every other week
+184	dicyclomine	Bentyl	Irritable bowel syndrome	Anticholinergic agent	Take 20-40mg by mouth four times daily
+185	anastrozole	Arimidex	Breast Cancer	Aromatase Inhibitor	Take 1mg by mouth once daily
+186	timolol 	Timoptic, Betimol	Ocular hypertension, Open-angle glaucoma	Non-selective beta blocker	Instill 1 drop 0.25% or 0.5% in affected eye(s) once daily
+187	chlorthalidone	Thalitone	edema, hypertension	thiazide diuretic	Take 12.5-25 mg orally once daily
+188	lidocaine	Lidoderm	Topical local anesthetic to skin	Local Anesthetic	Apply topically to affected area no more often than 3 to 4 times daily
+189	phentermine	Adipex	obesity	Central Nervous System Stimulant	Adipex: 37.5 mg orally once daily before breakfast or 1 to 2 hours after breakfast
+190	phentermine	 Lomaira	obesity		Central Nervous System StimulantLomaira: 8 mg orally 3 times daily given one-half hour before meals
+191	amiodarone 	Pacerone	Ventricular arrhythmia	Antiarrhythmic Agent	Take 400-600 mg by mouth once or twice daily
+192	atomoxetine	Strattera	Attention deficit hyperactivity disorder	Selective Norepinephrine Reuptake Inhibitor	Take 80mg by mouth once daily in the morning
+193	fluconazole 	Diflucan	Candidiasis	Azole antifungal agent	Take 150mg by mouth as a single dose
+194	clobetasol	Clobex	Disorder of skin, Plaque psoriasis	corticosteroid	Apply a thin layer topically to affected area twice daily
+195	unfractionated heparin	heparin	Prophylaxis and treatment of thromboembolic disorders	Anticoagulant	Infuse 50-70 units/kg every 4-6 hours
+196	enoxaparin	Lovenox	Prophylaxis and treatment of thromboembolic disorders	Anticoagulant	Inject 1 mg/kg subcutaneuos every 12 hours 
+197	vancomycin	Vanconat	Infective endocardittis 	Glycopeptide antibiotic	Hospital Protocol
+198	pipercillin/ tazobactam 	Zosyn 	Community acquired pneumonia	Penicillin and Beta-lactamase inhibitor Antibiotic	3.375 g IV every 6 hours for 7 to 10 days
+199	meropenem 	Merrem	Bacterial Meningitis	Carbapenem Antibiotic	Infuse 2 g/day IV every 8 hours
+200	propofol	Diprivan 	General anesthesia	Sedative-hypnotic	Hospital Protocol

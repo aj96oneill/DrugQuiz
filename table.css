@@ -1,0 +1,22 @@
+table, th, td {
+    border: .5rem solid black;
+    border-collapse: collapse;
+  }
+
+table{
+    width: 100%;
+    padding: auto;
+}
+
+th{
+    font-size: 2.5rem;
+}
+
+td{
+    font-size: 1.5rem;
+    text-overflow: clip;
+}
+
+#tableTitle{
+    margin-bottom: 2rem;
+}

@@ -62,12 +62,17 @@ getNewQuestion = () => {
         localStorage.setItem("mostRecentScore", score);
         return window.location.assign('/end.html');
     }
+    else if (questionCounter >= 1){
+        availableDrugs.splice(questionIndex, 1);
+    }
     let option = 0;
     questionCounter++;
     if(settings.shuffled){
         questionIndex = Math.floor(Math.random() * availableDrugs.length); //randomly picks a question
     };
     drug = availableDrugs[questionIndex];
+    //console.log(drug.brand, questionIndex);
+
 
     //Progress Bar
     progressText.innerText = `Question: ${questionCounter}/${MAX_QUESTIONS}`;
@@ -128,8 +133,6 @@ getNewQuestion = () => {
             }
         });
     }
-
-    availableDrugs.splice(questionIndex, 1);
     acceptingAnswers = true;
 };
 
@@ -170,7 +173,7 @@ checkAnswer = (e) => {
     e.preventDefault();
     if (!acceptingAnswers) return;
     acceptingAnswers = false;
-    const classToApply = "incorrect";
+    let classToApply = "incorrect";
 
     if(settings.question == "generic"){
         //looking for the brand
@@ -181,6 +184,8 @@ checkAnswer = (e) => {
             submitAnswerBtn.classList.add(classToApply)
             setTimeout(() =>{
                 submitAnswerBtn.classList.remove(classToApply)
+                response.value = null;
+                response.placeholder="type answer here";
                 getNewQuestion();
             }, 1000);
         };
@@ -196,7 +201,6 @@ checkAnswer = (e) => {
             }, 1000);
         };
     }
-    
     submitAnswerBtn.classList.add(classToApply)
     setTimeout(() =>{
         submitAnswerBtn.classList.remove(classToApply)
